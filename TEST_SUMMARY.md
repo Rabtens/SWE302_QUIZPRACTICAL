@@ -52,4 +52,4 @@ The tests validate all functional requirements from the README:
 - Tests assume the development server runs on `http://localhost:5173`
 - Visual feedback tests check for CSS classes indicating selected/correct states
 - Timer tests include tolerance for timing variations
-- All tests include proper cleanup and state reset between runs.
+- All tests include proper cleanup and state reset between runs
